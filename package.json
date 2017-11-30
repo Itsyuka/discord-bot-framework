@@ -1,0 +1,19 @@
+{
+  "name": "Hidekazu's Discord Bot Framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "eris": "^0.8.1",
+    "eventemitter3": "^2.0.3",
+    "minimist": "^1.2.0",
+    "recursive-readdir": "^2.2.1",
+    "sprintf-js": "^1.1.1"
+  }
+}
